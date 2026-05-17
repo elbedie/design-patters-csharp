@@ -1,0 +1,14 @@
+C:\Users\Desktop\OneDrive\Documentos\Dev\design-patterns-c#\DesignPatternsC#\bin\Debug\net10.0\DesignPatternsC#.exe
+C:\Users\Desktop\OneDrive\Documentos\Dev\design-patterns-c#\DesignPatternsC#\bin\Debug\net10.0\DesignPatternsC#.deps.json
+C:\Users\Desktop\OneDrive\Documentos\Dev\design-patterns-c#\DesignPatternsC#\bin\Debug\net10.0\DesignPatternsC#.runtimeconfig.json
+C:\Users\Desktop\OneDrive\Documentos\Dev\design-patterns-c#\DesignPatternsC#\bin\Debug\net10.0\DesignPatternsC#.dll
+C:\Users\Desktop\OneDrive\Documentos\Dev\design-patterns-c#\DesignPatternsC#\bin\Debug\net10.0\DesignPatternsC#.pdb
+C:\Users\Desktop\OneDrive\Documentos\Dev\design-patterns-c#\DesignPatternsC#\obj\Debug\net10.0\DesignPatternsC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\OneDrive\Documentos\Dev\design-patterns-c#\DesignPatternsC#\obj\Debug\net10.0\DesignPatternsC#.AssemblyInfoInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\Dev\design-patterns-c#\DesignPatternsC#\obj\Debug\net10.0\DesignPatternsC#.AssemblyInfo.cs
+C:\Users\Desktop\OneDrive\Documentos\Dev\design-patterns-c#\DesignPatternsC#\obj\Debug\net10.0\DesignPatternsC#.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\OneDrive\Documentos\Dev\design-patterns-c#\DesignPatternsC#\obj\Debug\net10.0\DesignPatternsC#.dll
+C:\Users\Desktop\OneDrive\Documentos\Dev\design-patterns-c#\DesignPatternsC#\obj\Debug\net10.0\refint\DesignPatternsC#.dll
+C:\Users\Desktop\OneDrive\Documentos\Dev\design-patterns-c#\DesignPatternsC#\obj\Debug\net10.0\DesignPatternsC#.pdb
+C:\Users\Desktop\OneDrive\Documentos\Dev\design-patterns-c#\DesignPatternsC#\obj\Debug\net10.0\DesignPatternsC#.genruntimeconfig.cache
+C:\Users\Desktop\OneDrive\Documentos\Dev\design-patterns-c#\DesignPatternsC#\obj\Debug\net10.0\ref\DesignPatternsC#.dll
