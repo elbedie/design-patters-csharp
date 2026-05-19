@@ -1,6 +1,6 @@
 namespace DesignPatternsCSharp.SOLID.OCP.After;
 
-public class BoletoPayment : IPaymentMethod
+public class BoletoPayment : PaymentMethod, IPaymentMethod
 {
     public void Pay()
     {
